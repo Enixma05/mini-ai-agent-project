@@ -1,3 +1,3 @@
 # List of mini project on this repository
 
-Day 1: simple chatbot
+Day 1: simple chatbot on terminal
